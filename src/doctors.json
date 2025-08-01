@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Dr. srinu",
+    "specialization": "Dermatologist",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2480850611/display_1500/stock-photo-portrait-of-handsome-male-doctor-with-stethoscope-over-neck-working-while-looking-at-camera-in-the-2480850611.jpg",
+    "available": true
+  },
+  {
+    "name": "Dr. Rohan",
+    "specialization": "Cardiologist",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2059492724/display_1500/stock-photo-portrait-of-a-young-doctor-in-his-office-in-a-hospital-2059492724.jpg",
+    "available": false
+  },
+  {
+    "name": "Dr. Neha",
+    "specialization": "Pediatrician",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2527451925/display_1500/stock-photo-happy-female-doctor-with-stethoscope-on-white-background-2527451925.jpg",
+    "available": true
+  },
+  {
+    "name": "Dr. vasu",
+    "specialization": "Dentist",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2282821907/display_1500/stock-photo-man-smiling-with-teeth-doctor-in-white-coat-and-eyeglasses-and-stethoscope-looking-into-camera-on-2282821907.jpg",
+    "available": true
+  },
+  {
+    "name": "Dr. lucky",
+    "specialization": "Dermatologist",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2480850611/display_1500/stock-photo-portrait-of-handsome-male-doctor-with-stethoscope-over-neck-working-while-looking-at-camera-in-the-2480850611.jpg",
+    "available": false
+  },
+  {
+    "name": "Dr. chitti",
+    "specialization": "Cardiologist",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2059492724/display_1500/stock-photo-portrait-of-a-young-doctor-in-his-office-in-a-hospital-2059492724.jpg",
+    "available": false
+  },
+  {
+    "name": "Dr. mounika",
+    "specialization": "Pediatrician",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2527451925/display_1500/stock-photo-happy-female-doctor-with-stethoscope-on-white-background-2527451925.jpg",
+    "available": true
+  },
+  {
+    "name": "Dr. koti",
+    "specialization": "Dermatologist",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2282821907/display_1500/stock-photo-man-smiling-with-teeth-doctor-in-white-coat-and-eyeglasses-and-stethoscope-looking-into-camera-on-2282821907.jpg",
+    "available": true
+  },
+   {
+    "name": "Dr. srinu",
+    "specialization": "Dermatologist",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2480850611/display_1500/stock-photo-portrait-of-handsome-male-doctor-with-stethoscope-over-neck-working-while-looking-at-camera-in-the-2480850611.jpg",
+    "available": true
+  },
+  {
+    "name": "Dr. Rohan",
+    "specialization": "Cardiologist",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2059492724/display_1500/stock-photo-portrait-of-a-young-doctor-in-his-office-in-a-hospital-2059492724.jpg",
+    "available": false
+  },
+  {
+    "name": "Dr. Neha",
+    "specialization": "Pediatrician",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2527451925/display_1500/stock-photo-happy-female-doctor-with-stethoscope-on-white-background-2527451925.jpg",
+    "available": true
+  },
+  {
+    "name": "Dr. vasu",
+    "specialization": "Dentist",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2282821907/display_1500/stock-photo-man-smiling-with-teeth-doctor-in-white-coat-and-eyeglasses-and-stethoscope-looking-into-camera-on-2282821907.jpg",
+    "available": true
+  },
+  {
+    "name": "Dr. lucky",
+    "specialization": "Dermatologist",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2480850611/display_1500/stock-photo-portrait-of-handsome-male-doctor-with-stethoscope-over-neck-working-while-looking-at-camera-in-the-2480850611.jpg",
+    "available": false
+  },
+  {
+    "name": "Dr. chitti",
+    "specialization": "Cardiologist",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2059492724/display_1500/stock-photo-portrait-of-a-young-doctor-in-his-office-in-a-hospital-2059492724.jpg",
+    "available": false
+  },
+  {
+    "name": "Dr. mounika",
+    "specialization": "Pediatrician",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2527451925/display_1500/stock-photo-happy-female-doctor-with-stethoscope-on-white-background-2527451925.jpg",
+    "available": true
+  },
+  {
+    "name": "Dr. koti",
+    "specialization": "Dermatologist",
+    "image": "https://www.shutterstock.com/shutterstock/photos/2282821907/display_1500/stock-photo-man-smiling-with-teeth-doctor-in-white-coat-and-eyeglasses-and-stethoscope-looking-into-camera-on-2282821907.jpg",
+    "available": true
+  }
+]
